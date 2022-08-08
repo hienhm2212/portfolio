@@ -34,7 +34,7 @@ const Page = () => {
             </Heading>
           </Box>
         </Box>
-        <p>This is test page abcabcabcabcabc</p>
+        <p>A Back-end Developer</p>
         <Box
           flexShrink={0}
           mt={{ base: 4, md: 0 }}
